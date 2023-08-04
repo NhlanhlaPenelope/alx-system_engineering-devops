@@ -1,2 +1,2 @@
 #!/bin/bash
-file /tmp/iamfile
+mv /tmp/betty /tmp/my_first_directory
